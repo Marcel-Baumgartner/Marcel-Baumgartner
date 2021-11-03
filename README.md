@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Ich bin Marcel</h1>
 <h3 align="center">Ein C# begeisterter Coder und Leiter eines Hosting Projekts</h3>
 
-- 🔭 Ich arbeite gerade an [TabsyDaemon](https://github.com/Endelon-Hosting/TabsyDaemon)
+- 🔭 Ich arbeite gerade an [Rocky](https://github.com/Endelon-Hosting/Rocky) 
 
 - 🌱 Ich lerne aktuell **C# RPC, Blazor**
 
@@ -11,7 +11,7 @@
 
 - 💬 Frag mich nach **C#, Webdesign, Unity**
 
-- 📫 Wie du mich erreichen kannst **admin@endelon-hosting.de, marcel.kbkm@gmail.com oder Discord masusniper#7114**
+- 📫 Wie du mich erreichen kannst **admin@endelon-hosting.de, marcel.kbkm@gmail.com oder Discord masusniper#0001**
 
 <h3 align="left">Schreib mir:</h3>
 <p align="left">
