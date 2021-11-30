@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Ich bin Marcel</h1>
 <h3 align="center">Ein C# begeisterter Coder und Leiter eines Hosting Projekts</h3>
 
-- 🔭 Ich arbeite gerade an [RockyPanel](https://github.com/Endelon-Hosting/RockyPanel) 
+- 🔭 Ich arbeite gerade an [EndelonStore](https://github.com/Endelon-Hosting/) 
 
 - 🌱 Ich lerne aktuell **C# RPC, Blazor**
 
