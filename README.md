@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, i am marcel</h1>
+<h1 align="center">Hi 👋, I am Marcel</h1>
 <h3 align="center">I am a csharp coder and manager of my hosting project</h3>
 
 - 🔭 I am currently working on [EndelonStore](https://github.com/Endelon-Hosting/) 
