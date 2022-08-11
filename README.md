@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Marcel</h1>
 <h3 align="center">I am a csharp coder and manager of my hosting project</h3>
 
-- 🔭 I am currently working on [DBSync.Net](https://github.com/Marcel-Baumgartner/DBSync.Net) 
+- 🔭 I am currently working on [Moonlight Panel](https://github.com/Endelon-Hosting) 
 
 - 🌱 I am learning **C# Blazor**
 
